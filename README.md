@@ -312,6 +312,7 @@ Web fetching, scraping, and search.
 - Apify Actors & RAG Web Browser — https://github.com/apify/actors-mcp-server and https://github.com/apify/mcp-server-rag-web-browser
 - Coupang MCP — https://github.com/uju777/coupang-mcp - Korean e-commerce search with Rocket Delivery filtering
 - Naver Search MCP — https://github.com/uju777/mcp-server-naver-search - Naver Shopping, Cafe, News search for Korean users
+- Vend Browser Agent — https://extract.paypercall.dev/mcp - Pay-per-call browser automation and stealth scraping (real browser runs plus single/batch page scraping), settled per call in Nano (XNO) via x402; no account or API key
 - Scrapeless and many web-scraping-focused MCP servers are listed in Community Servers.
 
 ---
